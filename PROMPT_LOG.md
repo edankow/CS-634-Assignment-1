@@ -2261,3 +2261,15 @@ and theres not even a design family gallery, just a menu?
 ```
 
 Generated content: Clarified the audience paragraph using Even's observation: design families are listed in a menu rather than presented as a gallery. Also replaced the prior must navigate phrasing with the alternatives of browsing the mixed catalog or using the menu. Exact final text preserved in website/index.html.
+
+
+## 2026-11-01 - Concrete future-research measures
+
+Tool: OpenAI Codex.
+
+Exact user prompt:
+```text
+let's edit the original files a bit more. "?A next step would be to ask ketubah shoppers to try the proposed browsing, preview, comparison, and sharing features. ? -- for instance, we could? examine whethershoppers to find a product they want and how long it takes.
+```
+
+Generated content: Added Even's proposed evaluation measures to the future-research paragraph in website/index.html: whether shoppers find a product they want and how long it takes. Exact final text preserved in index.html. Local edit only; published site not updated.

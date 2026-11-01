@@ -413,3 +413,8 @@ Even requested clearer wording incorporating his roughly 15 subgroup observation
 ## Family menu versus gallery - November 1, 2026
 
 Even clarified that design-family navigation is a menu, not a gallery. Codex incorporated that observation into the audience paragraph and avoided implying that every shopper must navigate all groups. Prompt record: PROMPT_LOG.md, "2026-11-01 - Distinguish family menu from gallery." Exact wording preserved in index.html.
+
+
+## Concrete future-research measures - November 1, 2026
+
+Even proposed evaluating whether shoppers find a desired product and the time required. Codex edited this into the existing future-research paragraph. These are planned measures, not study results. Prompt record: PROMPT_LOG.md, "2026-11-01 - Concrete future-research measures." Exact wording preserved in index.html.
