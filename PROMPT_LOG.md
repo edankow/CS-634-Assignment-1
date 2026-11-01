@@ -2237,3 +2237,27 @@ hmmm is the site ready now?
 ```
 
 Generated content: Chat readiness assessment based on current HTML, references, disclosure records, and README. Checked local destinations and fragments across 3 HTML pages and 100 links, 3 images with alternative text, and duplicate IDs; no issues detected. External destinations and full source/citation metadata were not re-audited, rendered desktop/mobile behavior not verified, and no deployment performed. No website content changed.
+
+
+## 2026-11-01 - Clarify audience navigation burden
+
+Tool: OpenAI Codex.
+
+Exact user prompt:
+```text
+clarify this stencen? "Shoppers who prefer fewer decisions also face obstacles in could use design-family navigation, but might still face a choice among sub-designs rather than being offered a starting configuration" that doesnt sound right, remember roughyl 15?
+```
+
+Generated content: Revised the audience sentence in website/index.html to mention roughly 15 design-family subgroups plus choices among variations, rather than a suggested configuration. Exact replacement: "Shoppers who prefer fewer decisions must still navigate roughly 15 design-family subgroups in the menu and choose among variations within a family, rather than begin with a suggested configuration."
+
+
+## 2026-11-01 - Distinguish family menu from gallery
+
+Tool: OpenAI Codex.
+
+Exact user prompt:
+```text
+and theres not even a design family gallery, just a menu?
+```
+
+Generated content: Clarified the audience paragraph using Even's observation: design families are listed in a menu rather than presented as a gallery. Also replaced the prior must navigate phrasing with the alternatives of browsing the mixed catalog or using the menu. Exact final text preserved in website/index.html.

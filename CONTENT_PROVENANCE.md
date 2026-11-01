@@ -403,3 +403,13 @@ Even requested retaining implementation options in its previous location as a sh
 ## Current readiness assessment - November 1, 2026
 
 Codex assessed the revised site and performed local structural/link/image checks. Assessment is not instructor grading, a complete citation audit, or rendered-browser verification. Prompt record: PROMPT_LOG.md, "2026-11-01 - Current submission readiness check." No site content changes.
+
+
+## Audience navigation wording - November 1, 2026
+
+Even requested clearer wording incorporating his roughly 15 subgroup observation. Codex revised the audience paragraph accordingly. Prompt record: PROMPT_LOG.md, "2026-11-01 - Clarify audience navigation burden." Exact wording preserved in index.html.
+
+
+## Family menu versus gallery - November 1, 2026
+
+Even clarified that design-family navigation is a menu, not a gallery. Codex incorporated that observation into the audience paragraph and avoided implying that every shopper must navigate all groups. Prompt record: PROMPT_LOG.md, "2026-11-01 - Distinguish family menu from gallery." Exact wording preserved in index.html.
